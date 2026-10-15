@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+body {
+  padding: 15px;
+}
+.card-img-top {
+  height: 40vh;
+}
